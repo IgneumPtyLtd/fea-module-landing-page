@@ -19,8 +19,8 @@ function App() {
         <>
             <Navbar/>
             <Hero/>
-            <HowItWorks/>
             <Benchmark/>
+            <HowItWorks/>
             <Features/>
             <Services/>
             <Cta/>
